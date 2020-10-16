@@ -138,3 +138,7 @@ blog:
   enable: true
   title: Blogs
 title: homepage2.yml
+menu:
+  main:
+    name: Home2
+    weight: 5
