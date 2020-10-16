@@ -16,7 +16,7 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design 2
+  - title: Web Design
     progress: 90%
     color: "#fdb157"
   - title: Logo Design
